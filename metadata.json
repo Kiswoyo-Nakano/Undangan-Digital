@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Nikah Digital",
+  "description": "Website undangan pernikahan digital elegan dengan musik latar, buku tamu, RSVP WhatsApp, hitung mundur, galeri foto, dan peta lokasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
